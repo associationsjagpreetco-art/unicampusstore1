@@ -1,9 +1,0 @@
-@import "tailwindcss";
-:root{--bg:#f5f2e9;--fg:#1f3445;--card:#fff}
-@media (prefers-color-scheme:dark){:root{--bg:#14211b;--fg:#f1ede0;--card:#1d2e26}}
-body{background:var(--bg);color:var(--fg);font-family:"DM Sans",sans-serif;overflow-x:hidden}
-h1,h2,h3,.logo{font-family:Manrope,sans-serif}
-.btn{background:#245f4b;color:#fff;border-radius:999px;padding:.7rem 1.2rem;font-weight:600}
-.btn2{border:1px solid #245f4b;border-radius:999px;padding:.5rem 1rem}
-.card{background:var(--card);border-radius:1rem;padding:.75rem}
-.inp{width:100%;border:1px solid #9994;border-radius:.75rem;padding:.7rem;background:var(--card)}
