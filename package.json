@@ -1,1 +1,0 @@
-{ "name": "unicampus-store", "private": true, "workspaces": ["client", "server"], "dependencies": { "zod": "^3.23.8" } }
