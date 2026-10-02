@@ -1,3 +1,0 @@
-{ "name": "unicampus-server", "type": "module", "scripts": { "seed": "tsx src/seed.ts", "dev": "tsx watch src/app.ts", "start": "tsx src/app.ts" },
-  "dependencies": { "express": "^4.19.2", "mongoose": "^8.5.0", "zod": "^3.23.8", "bcryptjs": "^2.4.3", "jsonwebtoken": "^9.0.2",
-    "cookie-parser": "^1.4.6", "helmet": "^7.1.0", "cors": "^2.8.5", "express-rate-limit": "^7.3.1", "compression": "^1.7.4", "tsx": "^4.16.0" } }
